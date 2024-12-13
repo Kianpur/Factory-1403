@@ -1,0 +1,7 @@
+\contentsline {chapter}{\numberline {1} قوانین و مقررات}{2}{}%
+\contentsline {section}{\numberline {1.1} \textbf {قانون ماده یک :}}{3}{}%
+\contentsline {subsection}{\numberline {1.1.1}تبصره یکم}{3}{}%
+\contentsline {subsection}{\numberline {1.1.2}تبصره دوم}{3}{}%
+\contentsline {section}{\numberline {1.2} \textbf {قانون ماده دو :}}{3}{}%
+\contentsline {section}{\numberline {1.3} \textbf {قانون ماده سه :}}{3}{}%
+\contentsline {section}{\numberline {1.4} \textbf {قانون ماده چهار:}}{3}{}%
